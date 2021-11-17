@@ -18,38 +18,40 @@ body {
   font-family: "Work Sans";
 }
 .instruction-row {
-  margin: 0 auto;
+  margin: 30px auto;
   width: 400px;
 }
 .instruction-number {
-  padding-right: 20px;
   font-family: "Work Sans";
-  font-size: 30px;
+  font-size: 35px;
   color: #00ffff;
 }
 .instruction-text {
-  padding: 10px;
+  padding: 3px;
   font-family: "Work Sans";
   font-size: 14px;
   color: #ffffff;
 }
 .door-row {
   text-align: center;
+  margin-top: 30px;
 }
 .door-frame {
   cursor: pointer;
-  padding: 10px;
+  padding: 30px;
 }
 .start-row {
   margin: auto;
-  width: 120px;
+  width: 150px;
   height: 43px;
   font-family: "Work Sans";
-  background-color: #eb6536;
+  background-color: #00ffff;
   padding-top: 18px;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
+  font-weight: bold;
   color: #010165;
-  margin-bottom: 21px;
+  border-radius: 2px;
+  margin-top: 30px;
   cursor: pointer;
 }
